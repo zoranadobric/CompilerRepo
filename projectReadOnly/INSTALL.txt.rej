@@ -1,0 +1,7 @@
+diff a/projectReadOnly/INSTALL.txt b/projectReadOnly/INSTALL.txt	(rejected hunks)
+@@ -1,4 +1,5 @@
+ Zum installieren der Haskell Plattform unter Debian führen Sie folgendes
+ Kommando aus:
++Hier sind Infos zum Deinstallieren....
+ 
+ > aptitude install haskell-platform
