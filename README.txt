@@ -4,3 +4,4 @@ Lizenz: ...
 
 Compilieren
 ===========
+Zum Compilieren wird der Haskell Compiler benötigt.
